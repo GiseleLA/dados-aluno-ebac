@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Gisele Lima de Almeida  
+-Profissão: Estagiário de QA
+-Cidade: Franco da Rocha
+-O que faz nas horas vaga: Musica, leitura, series e shows
+-Feedback sobre o curso Qualidade de Software: O curso tem me ajudado a entender minhas atividades no estágio mesmo nunca tendo atuado na area e a me destacar como profissional com conhecimentos cada vez mais avançados.
+-Feedback sobre a plataforma de estudo da EBAC: É uma plataforma de facil utilização, com conteudos para todos e onde é simples ver a sua evolução no curso.
 
 Obrigado!!!
 
